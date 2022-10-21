@@ -1,0 +1,17 @@
+{
+  "name": "flatten",
+  "version": "1.0.0",
+  "description": "Flattening an array",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "George Linardis",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
