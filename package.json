@@ -4,8 +4,8 @@
   "description": "Flattening an array",
   "main": "flatten.js",
   "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watchAll"
+    "test": "jest --verbose=true",
+    "test:watch": "jest --watchAll --verbose=true"
   },
   "private": true,
   "keywords": [],
